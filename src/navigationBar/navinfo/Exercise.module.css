@@ -1,0 +1,17 @@
+.main {
+    float: left;   
+    background-color: black;
+    color: white;
+    height: 500px;
+    padding: 20px;
+    width: 75%;
+    border: solid 3px red;
+    overflow: scroll;
+}
+
+.Exercising {
+    float: right;
+    max-width: 30%;
+    height: auto;
+    border: 1px solid blue;
+}

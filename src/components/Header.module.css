@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    background-color: yellow;
+    padding: 10px;
+    border: red 5px solid;
+    border-bottom: none;
+
+    background-image: url('../Pictures/Grass.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }

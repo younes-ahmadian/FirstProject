@@ -1,0 +1,16 @@
+.main {
+    float: left;   
+    background-color: black;
+    color: white;
+    height: 500px;
+    padding: 20px;
+    width: 75%;
+    border: solid 3px red;
+    overflow: scroll;
+}
+.pic {
+    float: right;
+    max-width: 30%;    /*Responsive Image Width and Height*/
+    height: auto;
+    border: 1px solid blue;
+}
